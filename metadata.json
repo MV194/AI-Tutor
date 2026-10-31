@@ -1,0 +1,8 @@
+{
+  "name": "OmniTutor",
+  "description": "A gamified, multimodal AI Academic Mentor that performs comprehensive diagnostics, processes textbook & homework photos, and calculates subject mastery under an engaging gaming dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
